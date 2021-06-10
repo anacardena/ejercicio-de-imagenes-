@@ -8,9 +8,13 @@
 	font-family: BubbleGum;
 
 }
-
+.Container_Texto {
+  color: white;
+  font-family: arial;
+  font-size: 25px;
+	}
 .Container_Footer img {
 	width: 200px;
 	height: 260px;
-	margin-left: 433px;
+	margin-left: 305px;
 }

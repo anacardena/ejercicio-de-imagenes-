@@ -4,10 +4,12 @@ import Title from './components/Title';
 import Todo from './components/Todo';
 import Cuerpo from './components/Cuerpo';
 import Footer from './components/Footer';
+import GlobalStyles from './GlobalStyles';
 
 function App() {
   return (
     <div className="App">
+    <GlobalStyles />
     <Title />  
    <Todo />
    <Cuerpo />
